@@ -1,0 +1,30 @@
+.heading {
+    color: Black;
+}
+
+table {
+    border: 1px solid;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: auto;
+    text-align: center;
+}
+
+th {
+
+    background-color: rgb(60, 184, 184);
+    color: Black;
+    font-size: 15px;
+    text-align: center;
+    vertical-align: center;
+    padding: 15px;
+    
+}
+
+td {
+    column-width: auto;
+    text-align: center;
+    padding: 15px;
+    vertical-align: center;
+}
